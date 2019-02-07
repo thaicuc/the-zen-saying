@@ -9,4 +9,4 @@ The ending of becoming or not.
 As the bee whispers among the leaves,  
 So the whispering of meditation is action.
 
-[Be Oceanic &rarr;](https://github.com/thaicuc/the-zen-saying/blob/master/contents/2-allowing.md)
+[Be Oceanic &rarr;](https://github.com/thaicuc/the-zen-saying/blob/master/contents/3-be-oceanic.md)
